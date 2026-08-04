@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="420" viewBox="0 0 1200 420" role="img" aria-labelledby="title desc">
+<title id="title">Watch the BiasBreaker demo</title><desc id="desc">A two-minute walkthrough of the interactive BiasBreaker learning experience.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A090D"/><stop offset=".6" stop-color="#20132F"/><stop offset="1" stop-color="#0A090D"/></linearGradient><linearGradient id="accent" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F97316"/><stop offset="1" stop-color="#A855F7"/></linearGradient><pattern id="grid" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#C4B5FD" stroke-opacity=".06"/></pattern></defs>
+<rect width="1200" height="420" rx="22" fill="url(#bg)"/><rect width="1200" height="420" rx="22" fill="url(#grid)"/>
+<circle cx="600" cy="175" r="78" fill="#F97316" opacity=".14"/><circle cx="600" cy="175" r="56" fill="url(#accent)"/><path d="M583 143 L583 207 L630 175 Z" fill="#0A090D"/>
+<text x="600" y="290" text-anchor="middle" fill="#F7F3FC" font-family="Georgia,serif" font-size="38" font-weight="700">Watch BiasBreaker in action</text>
+<text x="600" y="335" text-anchor="middle" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="21">2-minute guided walkthrough • interactive scenario • evidence-based reframe</text>
+<rect x="1.5" y="1.5" width="1197" height="417" rx="20.5" fill="none" stroke="url(#accent)" stroke-width="3" stroke-opacity=".55"/>
+</svg>
