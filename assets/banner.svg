@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="340" viewBox="0 0 1200 340" role="img" aria-labelledby="title desc">
+<title id="title">BiasBreaker</title><desc id="desc">Make bias visible before it shapes the decision</desc>
+<defs>
+<linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0A090D"/><stop offset=".6" stop-color="#171021"/><stop offset="1" stop-color="#0A090D"/></linearGradient>
+<linearGradient id="line" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#F97316"/><stop offset="1" stop-color="#A855F7"/></linearGradient>
+<radialGradient id="glow"><stop stop-color="#A855F7" stop-opacity=".38"/><stop offset="1" stop-color="#A855F7" stop-opacity="0"/></radialGradient>
+<pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#A78BFA" stroke-opacity=".07"/></pattern>
+</defs>
+<rect width="1200" height="340" rx="24" fill="url(#bg)"/><rect width="1200" height="340" rx="24" fill="url(#grid)"/>
+<circle cx="1050" cy="40" r="290" fill="url(#glow)"/>
+<g transform="translate(72 58)"><rect width="250" height="34" rx="17" fill="#F97316" opacity=".13" stroke="#F97316" stroke-opacity=".6"/><circle cx="19" cy="17" r="5" fill="#F97316"/><text x="34" y="22" fill="#F97316" font-family="Arial,sans-serif" font-size="14" font-weight="700" letter-spacing="1.5">INTERACTIVE LEARNING</text></g>
+<text x="72" y="174" fill="#F7F3FC" font-family="Georgia,serif" font-size="66" font-weight="700">BiasBreaker</text>
+<text x="74" y="224" fill="#C4B5FD" font-family="Arial,sans-serif" font-size="25" font-weight="600">Make bias visible before it shapes the decision</text>
+<rect x="74" y="258" width="650" height="4" rx="2" fill="url(#line)"/>
+<text x="74" y="300" fill="#AAA3B5" font-family="Arial,sans-serif" font-size="17">A portfolio case study by Ashley P. Harvey</text>
+<g transform="translate(1030 183)" fill="none"><circle r="64" stroke="#A855F7" stroke-width="2" opacity=".45"/><circle r="40" stroke="#F97316" stroke-width="2" opacity=".7"/><circle r="13" fill="#F97316"/><path d="M-90 0H-64M64 0H90M0-90V-64M0 64V90" stroke="#A855F7" stroke-width="3"/><circle cx="-90" r="5" fill="#A855F7"/><circle cx="90" r="5" fill="#F97316"/><circle cy="-90" r="5" fill="#F97316"/><circle cy="90" r="5" fill="#A855F7"/></g>
+<rect x="1.5" y="1.5" width="1197" height="337" rx="22.5" fill="none" stroke="url(#line)" stroke-opacity=".35" stroke-width="3"/>
+</svg>
