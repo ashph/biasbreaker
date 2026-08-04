@@ -8,6 +8,14 @@
 
 </div>
 
+## ▶ Watch the demo
+
+[<img src="./assets/demo-preview.svg" alt="Watch the BiasBreaker demo" width="100%" />](https://github.com/user-attachments/assets/1d53480f-42c3-40b3-9e75-a9a89e34e2ed)
+
+**[Open the full BiasBreaker walkthrough →](https://github.com/user-attachments/assets/1d53480f-42c3-40b3-9e75-a9a89e34e2ed)**
+
+The recording shows the GPT guiding a user through an interactive hiring scenario, surfacing the potential bias pattern, and offering an evidence-based way to reframe the decision.
+
 ## The challenge
 
 Bias training often explains concepts without changing the moment when a decision is made. Hiring teams need practice noticing bias in realistic situations, separating job evidence from assumptions, and choosing a more consistent next step.
