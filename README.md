@@ -64,7 +64,7 @@ flowchart TD
 
 ## Why this matters
 
-BiasBreaker makes candidate evaluation easier to understand. Instead of returning a unexplained fit score, it shows where the résumé contains supporting evidence, where information is missing, and what the hiring team may want to validate next.
+BiasBreaker makes candidate evaluation easier to understand. Instead of returning an unexplained fit score, it shows where the résumé contains supporting evidence, where information is missing, and what the hiring team may want to validate next.
 
 That approach can help teams more fairly consider:
 
