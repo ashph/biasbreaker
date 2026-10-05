@@ -1,5 +1,7 @@
+# BiasBreaker — Transferable Skills Match
+
 <div align="center">
-<img src="./assets/banner.svg" alt="BiasBreaker" width="100%" />
+<img src="./assets/banner.svg" alt="BiasBreaker — Transferable Skills Match" width="100%" />
 <br/><br/>
 
 ![Candidate Evaluation](https://img.shields.io/badge/Candidate_Evaluation-7C3AED?style=for-the-badge)
@@ -24,7 +26,7 @@ Transferable skills, nonlinear careers, and career changes are easy to miss when
 
 ## The solution
 
-**BiasBreaker is a GPT-powered candidate evaluator that does not rank candidates or make hiring decisions.**
+**BiasBreaker / Transferable Skills Match is a GPT-powered candidate evaluator that does not rank candidates or make hiring decisions.**
 
 A user uploads a job description and a candidate's résumé. BiasBreaker then organizes the available evidence so a recruiter or hiring manager can understand the candidate's alignment without relying on a black-box score.
 
